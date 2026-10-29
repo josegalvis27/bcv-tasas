@@ -1,0 +1,10 @@
+.env
+logs/
+__pycache__/
+*.pyc
+output/
+*.pdf
+.env.*
+!.env.example
+venv/
+.DS_Store
